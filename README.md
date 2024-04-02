@@ -33,6 +33,6 @@ Feel free to look at other cinema sites:
 - Less more “artsy” cinemas, e.g. Cinema in Lund
   Feel free to check out some more commons in the team - discuss what is good and less good UX of the sites you look at.
 
-- START :
+  # STARTR/RUN
   In client = npm run dev
   In server = npm run start
