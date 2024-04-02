@@ -40,5 +40,5 @@ Feel free to look at other cinema sites:
   Feel free to check out some more commons in the team - discuss what is good and less good UX of the sites you look at.
 
   # STARTR/RUN
-  In client = npm run dev
-  In server = npm run start
+  *In client = npm run dev
+  *In server = npm run start
