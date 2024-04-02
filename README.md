@@ -1,4 +1,6 @@
-# Projektarbete-Filmvisarna
+# Projektarbete-Filmvisarna-
+
+# Live @https://filmvisarna-bio.nodehill.se/
 
 # TEAM : 
 @jacke99
@@ -26,6 +28,8 @@ So far, you do not need to be able to pay online - without payment this happens 
 Note! Pensioners and children (under 12) have a lower ticket price. Normal ticket price is SEK 140, for pensioners SEK 120 and for children SEK 80.
 
 The lounge chairs are numbered from right to left, front to back. (The chair at the front right has the number 1. If the salon has 100 chairs, the one at the back left has the number 100.)
+
+# NOTE -  the database may not be updated at the moment and there are then no existing booking dates
 
 # Inspiration/competition comparison
 
