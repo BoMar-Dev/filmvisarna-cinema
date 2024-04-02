@@ -42,3 +42,5 @@ Feel free to look at other cinema sites:
   # STARTR/RUN
   *In client = npm run dev
   *In server = npm run start
+
+* Original workspace : https://github.com/jacke99/Projektarbete-Filmvisarna
