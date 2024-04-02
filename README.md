@@ -1,12 +1,14 @@
 # Projektarbete-Filmvisarna
 
-TEAM : 
+# TEAM : 
 @jacke99
 @BoMar-Dev 
 @felixlindh
 @HolaCarmensita
 @Hopnosic
 @AnnaKrifors
+--------------------------------------------------------------------------------------------------------
+#Description
 
 The company Filmvisarna AB is a small cinema chain that wants to start competing locally with SF. They have a couple of movie theaters in Småstad and have secured the rights to show a number of different movie titles.
 
