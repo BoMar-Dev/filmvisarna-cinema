@@ -6,6 +6,10 @@ This project involves the development of a website for Filmvisarna AB, a small c
 
 ### Live @ https://filmvisarna-bio.nodehill.se/
 
+#### Note
+Please be aware that this project was hosted on a free database that may not be regularly updated. If the database is not updated, some movies may not have any bookable dates. In such cases, you may not be able to proceed to the page to choose the type of tickets and seats.
+
+
 ## Objective
 
 The main objective of this project is to build the first version of the Filmvisarna AB website. Users should be able to view movie information, watch trailers, and book cinema tickets online.
@@ -72,8 +76,6 @@ npm run start
 - [Hopnosic]
 - [Anna Krifors]
 
-### Note
-Please be aware that this project was hosted on a free database that may not be regularly updated. If the database is not updated, some movies may not have any bookable dates. In such cases, you may not be able to proceed to the page to choose the type of tickets and seats.
 
 ### Original workplace :  [here](https://github.com/jacke99/Projektarbete-Filmvisarna).
 
