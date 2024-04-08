@@ -1,46 +1,72 @@
-# Projektarbete-Filmvisarna-
+# Filmvisarna AB Website
 
-# Live @https://filmvisarna-bio.nodehill.se/
+Welcome to the Filmvisarna AB website repository!
 
-# TEAM : 
-@jacke99
-@BoMar-Dev 
-@felixlindh
-@HolaCarmensita
-@Hopnosic
-@AnnaKrifors
---------------------------------------------------------------------------------------------------------
-#Description
+This project involves the development of a website for Filmvisarna AB, a small cinema chain aiming to compete locally with SF. The website is intended to provide information about movies being shown, allow users to watch trailers, and book cinema tickets online.
 
-The company Filmvisarna AB is a small cinema chain that wants to start competing locally with SF. They have a couple of movie theaters in Småstad and have secured the rights to show a number of different movie titles.
+### Live @ https://filmvisarna-bio.nodehill.se/
 
-Now they need help building a first version of their website, where visitors should be able to:
+## Objective
 
-Get information about movies being shown, incl. dates and times.
-Watch the trailers for the films
-Book your cinema tickets online - and find out the total price, locations (row and seat number) and booking number.
-Filmvisarna AB would like to have a booking system where you can see a graphic sketch of the movie theaters and their seats. You should be able to book a number of adjacent seats for your company during a specific screening of a film. Initially, the best remaining seats should be marked, but the visitor should be able to change the choice.
+The main objective of this project is to build the first version of the Filmvisarna AB website. Users should be able to view movie information, watch trailers, and book cinema tickets online.
 
-While booking, you should be able to choose the number of visitors and see the total price. When you complete a booking, you should receive a unique booking number (which should not be easily guessed), and be able to see which row(s) and seats you have booked.
+## Features
 
-So far, you do not need to be able to pay online - without payment this happens when you arrive at the cinema and give your booking number to the staff.
+### Movie Information
 
-Note! Pensioners and children (under 12) have a lower ticket price. Normal ticket price is SEK 140, for pensioners SEK 120 and for children SEK 80.
+- View information about movies being shown, including dates and times.
+- Watch trailers for the films.
 
-The lounge chairs are numbered from right to left, front to back. (The chair at the front right has the number 1. If the salon has 100 chairs, the one at the back left has the number 100.)
+### Ticket Booking System
 
-# NOTE -  the database may not be updated at the moment and there are then no existing booking dates
+- Book cinema tickets online.
+- See the total price, locations (row and seat number), and booking number.
+- Choose the number of visitors and see the total price.
+- Receive a unique booking number upon completion of booking.
+- See which row(s) and seats have been booked.
+- Graphic sketch of the movie theaters and their seats.
 
-# Inspiration/competition comparison
+## Inspiration/Competition Comparison
 
-Feel free to look at other cinema sites:
+Feel free to explore other cinema sites for inspiration:
 
-- Filmstaden - the big shit
-- Less more “artsy” cinemas, e.g. Cinema in Lund
-  Feel free to check out some more commons in the team - discuss what is good and less good UX of the sites you look at.
+- Filmstaden - [link](https://www.filmstaden.se/)
+- Less "artsy" cinemas, e.g., Cinema in Lund
 
-  # STARTR/RUN
-  * In client = npm run dev
-  * In server = npm run start
+## Technology Stack
 
-# Original workspace : https://github.com/jacke99/Projektarbete-Filmvisarna
+The website uses the following technologies:
+
+- React - A JavaScript library for building user interfaces.
+- Node.js - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- Express - Fast, unopinionated, minimalist web framework for Node.js.
+- MySQL - An open-source relational database management system.
+
+## Installation
+
+Install the dependencies and devDependencies and start the client and server.
+
+```sh
+cd client
+npm run dev
+```
+
+Then go back to root folder :
+
+```sh
+cd ..
+cd server
+npm run start
+```
+
+## Contributors
+- [Jacke99]
+- [BoMar-Dev]
+- [Felix Lindh]
+- [HolaCarmensita]
+- [Hopnosic]
+- [Anna Krifors]
+
+## License
+
+MIT
