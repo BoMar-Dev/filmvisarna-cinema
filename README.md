@@ -1,4 +1,4 @@
-# Filmvisarna AB Website
+# Filmvisarna Cinema
 
 Welcome to the Filmvisarna AB website repository!
 
