@@ -37,10 +37,15 @@ Feel free to explore other cinema sites for inspiration:
 
 The website uses the following technologies:
 
-- React - A JavaScript library for building user interfaces.
-- Node.js - A JavaScript runtime built on Chrome's V8 JavaScript engine.
-- Express - Fast, unopinionated, minimalist web framework for Node.js.
-- MySQL - An open-source relational database management system.
+- React - A JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of their applications efficiently.
+- Tailwind CSS - A utility-first CSS framework for creating custom designs with ease. It provides a set of pre-built classes that can be used to style HTML elements directly in the markup.
+- Node.js - A JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript code on the server-side, enabling the development of scalable and high-performance web applications.
+- Express - A fast, unopinionated, minimalist web framework for Node.js. It simplifies the process of building web applications and APIs by providing a robust set of features and middleware.
+- MongoDB - A NoSQL database that stores data in flexible, JSON-like documents. It offers high performance, scalability, and flexibility, making it suitable for a wide range of applications.
+- Nodemailer - A module for Node.js applications that allows sending emails. It supports various email services and provides features such as attachments, HTML content, and SMTP authentication.
+- Multer File Upload - A middleware for handling multipart/form-data, primarily used for uploading files in Node.js applications. It simplifies the process of handling file uploads and provides options for validation and storage.
+
+
 
 ## Installation
 
