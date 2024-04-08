@@ -72,6 +72,11 @@ npm run start
 - [Hopnosic]
 - [Anna Krifors]
 
+### Note
+Please be aware that this project was hosted on a free database that may not be regularly updated. If the database is not updated, some movies may not have any bookable dates. In such cases, you may not be able to proceed to the page to choose the type of tickets and seats.
+
+
+
 ## License
 
 MIT
